@@ -21,7 +21,9 @@ The best performing model (with the highest accuracy) for each sample is recorde
 A DataFrame (result) is created to store the results (sample number, best accuracy, best kernel, best C value, best gamma value).    
 Finally, the model with the best accuracy across all samples is selected and its learning curve is plotted to visualize the convergence of accuracy with respect to the number of training iterations.      
 5. **Observations:**      
-![image](https://github.com/cdr0101/Parameter-Optimisation/assets/117757108/efc1052f-7f7d-4ea4-be28-37807a7b9264)
+Best Accuracy score is obtained as 0.54 for sample 7 and parameters: Kernel= Linear, C=2.95, Gemma=0.43      
+![image](https://github.com/cdr0101/Parameter-Optimisation/assets/117757108/15ad55a9-3bf4-4449-8b93-b9f640357e31)
+
 ![image](https://github.com/cdr0101/Parameter-Optimisation/assets/117757108/0cecf887-0ecf-46d9-8d52-e76cf8f16bf1)
 
 
